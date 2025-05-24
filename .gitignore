@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints
+.vscode
+/dist/
+/*.egg-info
+*.pyc
+/build/
+venv/
+
+tests/testing_directory.txt
+.idea
